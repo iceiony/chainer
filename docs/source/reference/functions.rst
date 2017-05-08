@@ -263,9 +263,17 @@ linear
 ~~~~~~
 .. autofunction:: linear
 
+n_step_bigru
+~~~~~~~~~~~~
+.. autofunction:: n_step_bigru
+
 n_step_birnn
 ~~~~~~~~~~~~
 .. autofunction:: n_step_birnn
+
+n_step_gru
+~~~~~~~~~~
+.. autofunction:: n_step_gru
 
 n_step_lstm
 ~~~~~~~~~~~
